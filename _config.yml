@@ -3,14 +3,14 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # 网站信息
-title: Jones' Blog
+title: YangZhe' Blog
 subtitle: 
 author: 杨哲
-language:
+language: zh-CN
 timezone:
 
 # URL
-url: https://tyzhang.top      # 不要忘记修改CNAME文件
+url: https://yangzhe.us.kg      # 不要忘记修改CNAME文件
 root: /
 permalink: :category/:title/
 permalink_defaults:
@@ -19,7 +19,7 @@ permalink_defaults:
 # 以下是个性化设置
 
 # 网站设置
-SEOTitle: Jones' Blog
+SEOTitle: YangZhe' Blog
 email: zhe9052@gmail.com
 description: ""
 keyword: ""
