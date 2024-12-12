@@ -9,14 +9,7 @@ author: 杨哲
 language: zh-CN
 timezone:
 
-# URL
-url: https://yangzhe.us.kg      # 不要忘记修改CNAME文件
-root: /
-permalink: :category/:title/
-permalink_defaults:
-  lang: en
-
-# 以下是个性化设置
+  # 以下是个性化设置
 
 # 网站设置
 SEOTitle: YangZhe' Blog
@@ -35,7 +28,7 @@ signature-img: img/signature/BeanTechSign-white.png
 RSS: false
 weibo_username: '7527059128'
 #zhihu_username: zhihu_xx
-github_username: yangzhe
+github_username: yangzhe0
 #twitter_username:   Demonbane_x
 #facebook_username:  xx
 bilibili_username:  '290208229'
