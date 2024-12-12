@@ -14,7 +14,7 @@
 
 .sidebar-container {
     color: #bfbfbf;
-    font-size: 14px
+    font-size: 18px
 }
 
 .sidebar-container h5 {
@@ -93,7 +93,7 @@ h4 {
 a {
     color: black;
     font-weight: bold;
-    font-size: 20px
+    font-size: 15px
 }
 
 a:hover,
@@ -601,7 +601,7 @@ pre code {
 .post-preview>.post-meta {
     font-family: 'Lora', 'Times New Roman', serif;
     color: gray;
-    font-size: 10px;
+    font-size: 15px;
     font-style: normal;
     margin-top: 0
 }
