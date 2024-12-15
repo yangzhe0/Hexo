@@ -9,4 +9,5 @@ toc_nav_num: true
 musicid: 
 musicauto: 1
 top: 0
+typora-root-url: {{ title }}
 ---
